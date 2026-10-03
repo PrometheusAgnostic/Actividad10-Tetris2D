@@ -1,7 +1,7 @@
 # Tetris2D
 
 Base del juego **Tetris 2D** hecha con **C# y OpenTK** (OpenGL 4) para la clase de
-Graficación por Computadora.
+Tecnicas de Graficacion.
 
 ## Requisitos
 
